@@ -1,1 +1,2 @@
-print("hello, University of Tsukuba!")
+print("hello, University of Tsukubagit!")
+print("bye bye")
